@@ -1,10 +1,12 @@
 # Awesome-Flow-Matching-Biology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of papers and resources based on "Flow Matching Meets Biology and Life Science: A Survey" (arXiv 2025).
+A curated collection of papers, tools, and resources accompanying *[Flow Matching Meets Biology and Life Science: A Survey](https://arxiv.org/abs/2507.17731)* (arXiv 2025).
 
-**This repo will be continuously updated. Don't forget to star ⭐ it and keep tuned!**
+Flow matching is an emerging framework for generative modeling. This repository tracks its applications across biology and life sciences.
 
-**Please cite the paper in [Citations](#citations) if you find the resource helpful for your research. Thanks!**
+✨ **This repository is continuously updated — star ⭐ it to stay up to date!**  
+
+📖 **If you find these resources helpful, please consider citing our survey (see [Citations](#citations)).**  
 
 <p align="center">
     <img src="./fig/intro.png" width="90%" style="align:center;"/>
