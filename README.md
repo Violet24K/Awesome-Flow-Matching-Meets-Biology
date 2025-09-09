@@ -186,8 +186,16 @@ Flow Matching (FM) has recently emerged as a powerful paradigm for generative mo
   3. **Gumbel-softmax flow matching with straight-through guidance for controllable biological sequence generation**
   `arXiv`
 
-      *Shaorong Tang, Yifan Zhang, Alexander Tong, Pranam Chatterjee* [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.17361)
+      *Sophia Tang, Yinuo Zhang, Alexander Tong, Pranam Chatterjee* [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.17361)
       , 2025
+
+  4. **Multi-Objective-Guided Discrete Flow Matching for Controllable Biological Sequence Design**
+  `arXiv` *Tong Chen, Yinuo Zhang, Sophia Tang, Pranam Chatterjee1* [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.07086v1)
+      , 2025
+
+      
+
+    
 
 ## Bio Sequence Modeling
 
