@@ -213,7 +213,7 @@ Flow Matching (FM) has recently emerged as a powerful paradigm for generative mo
 
   4. **Multi-Objective-Guided Discrete Flow Matching for Controllable Biological Sequence Design**
   `arXiv` 
-      *Tong Chen, Yinuo Zhang, Sophia Tang, Pranam Chatterjee1* [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.07086v1)
+      *Tong Chen, Yinuo Zhang, Sophia Tang, Pranam Chatterjee* [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.07086v1)
       , 2025
 
 ### RNA Sequence
